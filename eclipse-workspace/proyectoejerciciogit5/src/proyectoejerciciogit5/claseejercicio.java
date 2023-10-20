@@ -5,7 +5,7 @@ public class claseejercicio {
 	public static void main(String[] args) {
 
 		
-		System.out.println("Ejercicio git");
+		System.out.println("Ejercicio git    ");
 	}
 
 }
